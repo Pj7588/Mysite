@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\PANKAJ\\Work\\Adobe\\EDS\\Code\\Starter code by adobe\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PANKAJ\\Work\\Adobe\\EDS\\Code\\Starter code by adobe\\blocks\\teaser1\\teaser.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blocks\\teaser1\\teaser.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PANKAJ\\Work\\Adobe\\EDS\\Code\\Starter code by adobe\\blocks\\teaser1\\teaser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blocks\\teaser1\\teaser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PANKAJ\\Work\\Adobe\\EDS\\Code\\Starter code by adobe\\blocks\\columns\\columns.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blocks\\columns\\columns.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "teaser.css",
+              "DocumentMoniker": "C:\\PANKAJ\\Work\\Adobe\\EDS\\Code\\Starter code by adobe\\blocks\\teaser1\\teaser.css",
+              "RelativeDocumentMoniker": "blocks\\teaser1\\teaser.css",
+              "ToolTip": "C:\\PANKAJ\\Work\\Adobe\\EDS\\Code\\Starter code by adobe\\blocks\\teaser1\\teaser.css",
+              "RelativeToolTip": "blocks\\teaser1\\teaser.css",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-11T03:05:02.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "teaser.js",
+              "DocumentMoniker": "C:\\PANKAJ\\Work\\Adobe\\EDS\\Code\\Starter code by adobe\\blocks\\teaser1\\teaser.js",
+              "RelativeDocumentMoniker": "blocks\\teaser1\\teaser.js",
+              "ToolTip": "C:\\PANKAJ\\Work\\Adobe\\EDS\\Code\\Starter code by adobe\\blocks\\teaser1\\teaser.js",
+              "RelativeToolTip": "blocks\\teaser1\\teaser.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-11T03:04:53.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "columns.css",
+              "DocumentMoniker": "C:\\PANKAJ\\Work\\Adobe\\EDS\\Code\\Starter code by adobe\\blocks\\columns\\columns.css",
+              "RelativeDocumentMoniker": "blocks\\columns\\columns.css",
+              "ToolTip": "C:\\PANKAJ\\Work\\Adobe\\EDS\\Code\\Starter code by adobe\\blocks\\columns\\columns.css",
+              "RelativeToolTip": "blocks\\columns\\columns.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-11T02:48:50.66Z",
+              "EditorCaption": ""
             }
           ]
         }
