@@ -265,7 +265,6 @@ main .section.highlight {
 
     /* Ensure headings inside this section turn white too */
     .section.dark-theme h1,
-    .section.dark-theme h2,
     .section.dark-theme h3 {
         color: #ffffff;
     }
