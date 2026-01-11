@@ -1,0 +1,13 @@
+.team-search-wrapper {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+    .team-search-wrapper input {
+        width: 100%;
+        max-width: 400px;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 25px;
+        font-size: 1rem;
+    }
