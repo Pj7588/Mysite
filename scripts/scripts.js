@@ -150,3 +150,6 @@ async function loadPage() {
 }
 
 loadPage();
+console.log(window.hlx);
+console.log(window.hlx && window.hlx.codeBasePath);
+console.log(`${window.hlx && window.hlx.codeBasePath}/styles/fonts.
