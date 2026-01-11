@@ -255,3 +255,17 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+
+/* This targets the parent container of the section */
+.section.dark-theme {
+    background-color: #1a1a1a; /* Dark gray */
+    color: #ffffff; /* White text */
+    padding: 80px 0; /* Add some breathing room */
+}
+
+    /* Ensure headings inside this section turn white too */
+    .section.dark-theme h1,
+    .section.dark-theme h2,
+    .section.dark-theme h3 {
+        color: #ffffff;
+    }
